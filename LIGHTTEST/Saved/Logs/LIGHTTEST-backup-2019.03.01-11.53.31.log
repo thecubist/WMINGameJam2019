@@ -1,0 +1,1441 @@
+﻿Log file open, 03/01/19 11:00:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LIGHTTEST
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.371437
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.373s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.024s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.01-11.00.36:460][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.01-11.00.36:460][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.01-11.00.36:499][  0]LogHAL: Display: Platform has ~ 16 GB [17098567680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.01-11.00.36:500][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.01-11.00.36:500][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.01-11.00.36:500][  0]LogInit: Computer: E-N5116-PC-ZZ
+[2019.03.01-11.00.36:500][  0]LogInit: User: w1605762
+[2019.03.01-11.00.36:500][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.01-11.00.36:500][  0]LogInit: High frequency timer resolution =3.410075 MHz
+[2019.03.01-11.00.36:501][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.01-11.00.36:501][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.01-11.00.36:501][  0]LogMemory: Process Physical Memory: 103.09 MB used, 103.09 MB peak
+[2019.03.01-11.00.36:501][  0]LogMemory: Process Virtual Memory: 92.32 MB used, 92.32 MB peak
+[2019.03.01-11.00.36:501][  0]LogMemory: Physical Memory: 4071.98 MB used,  12234.49 MB free, 16306.46 MB total
+[2019.03.01-11.00.36:501][  0]LogMemory: Virtual Memory: 4653.68 MB used,  12234.49 MB free, 134217728.00 MB total
+[2019.03.01-11.00.36:548][  0]LogInit: Using OS detected language (en-US).
+[2019.03.01-11.00.36:548][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.01-11.00.36:551][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.01-11.00.36:942][  0]LogStreaming: Display: Took  0.395s to InitEngineTextLocalization.
+[2019.03.01-11.00.36:943][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.01-11.00.37:037][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.01-11.00.37:037][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.01-11.00.37:476][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.01-11.00.37:476][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.01-11.00.37:568][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.03.01-11.00.37:568][  0]LogD3D11RHI:       4058/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.01-11.00.37:571][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.01-11.00.37:571][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.01-11.00.37:571][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.01-11.00.37:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.01-11.00.37:588][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.01-11.00.37:588][  0]LogWindows: EnumDisplayDevices:
+[2019.03.01-11.00.37:588][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.03.01-11.00.37:590][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.03.01-11.00.37:591][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.03.01-11.00.37:592][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.03.01-11.00.37:593][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.01-11.00.37:593][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.03.01-11.00.37:593][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.03.01-11.00.37:593][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.03.01-11.00.37:593][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2019.03.01-11.00.37:650][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.01-11.00.37:662][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.01-11.00.37:714][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Intermediate/Shaders/WorkingDirectory/4404/).
+[2019.03.01-11.00.37:715][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/w1605762/AppData/Local/Temp/UnrealShaderWorkingDir/200555B34A0E6BF24FB539AC6483EAC8/'.
+[2019.03.01-11.00.38:142][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.01-11.00.38:162][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.01-11.00.38:182][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.01-11.00.38:201][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.01-11.00.38:220][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.01-11.00.38:240][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.01-11.00.38:261][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.01-11.00.38:280][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.01-11.00.38:300][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.01-11.00.38:432][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.01-11.00.38:523][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.01-11.00.38:523][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.01-11.00.38:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.01-11.00.38:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.01-11.00.38:569][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.01-11.00.38:586][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.01-11.00.38:602][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.01-11.00.38:620][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.01-11.00.38:632][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.01-11.00.38:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.01-11.00.38:838][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.01-11.00.38:838][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.01-11.00.38:838][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.01-11.00.40:379][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.01-11.00.40:525][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/w1605762/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.01-11.00.40:529][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/w1605762/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.01-11.00.40:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.01-11.00.40:529][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.01-11.00.40:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.01-11.00.40:529][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.01-11.00.40:543][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.01-11.00.40:556][  0]LogDerivedDataCache: Using Local data cache path C:/Users/w1605762/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.01-11.00.40:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.01-11.00.40:556][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.01-11.00.40:593][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.01-11.00.40:595][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.01-11.00.40:597][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.01-11.00.40:737][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2019.03.01-11.00.41:192][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.01-11.00.41:368][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.01-11.00.41:377][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.01-11.00.41:377][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.01-11.00.41:377][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.01-11.00.41:377][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.01-11.00.41:397][  0]LogNetVersion: LIGHTTEST 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4178267143)
+[2019.03.01-11.00.42:096][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.198464 seconds
+[2019.03.01-11.00.42:102][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.01-11.00.42:102][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.01-11.00.42:102][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.01-11.00.43:312][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.01-11.00.43:327][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.01-11.00.43:560][  0]SourceControl: Source control is disabled
+[2019.03.01-11.00.43:560][  0]SourceControl: Source control is disabled
+[2019.03.01-11.00.43:563][  0]SourceControl: Source control is disabled
+[2019.03.01-11.00.43:565][  0]SourceControl: Source control is disabled
+[2019.03.01-11.00.43:819][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.01-11.00.44:091][  0]LogOcInput: OculusInput pre-init called
+[2019.03.01-11.00.44:170][  0]LogEngine: Initializing Engine...
+[2019.03.01-11.00.44:173][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.01-11.00.44:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.01-11.00.44:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.01-11.00.44:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.01-11.00.44:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.01-11.00.44:411][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.01-11.00.44:439][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.01-11.00.44:509][  0]LogInit: XAudio2 using 'ExtronScalerD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-11.00.44:559][  0]LogInit: FAudioDevice initialized.
+[2019.03.01-11.00.44:559][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.01-11.00.44:662][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/w1605762/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.01-11.00.44:681][  0]LogInit: Texture streaming: Enabled
+[2019.03.01-11.00.44:717][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.01-11.00.44:749][  0]LogInit: Transaction tracking system initialized
+[2019.03.01-11.00.44:800][  0]BlueprintLog: New page: Editor Load
+[2019.03.01-11.00.44:966][  0]LocalizationService: Localization service is disabled
+[2019.03.01-11.00.45:358][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.01-11.00.45:358][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.01-11.00.45:358][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.01-11.00.45:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.01-11.00.45:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.01-11.00.45:359][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.01-11.00.45:359][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.01-11.00.45:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/' took 0.05s
+[2019.03.01-11.00.45:559][  0]SourceControl: Source control is disabled
+[2019.03.01-11.00.45:559][  0]Cmd: MAP LOAD FILE="../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.01-11.00.45:560][  0]LightingResults: New page: Lighting Build
+[2019.03.01-11.00.45:565][  0]MapCheck: New page: Map Check
+[2019.03.01-11.00.45:565][  0]LightingResults: New page: Lighting Build
+[2019.03.01-11.00.47:262][  0]LogMaterial: Display: Missing cached shader map for material WaypointMat, compiling. 
+[2019.03.01-11.00.47:366][  0]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.01-11.00.47:366][  0]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.01-11.00.47:366][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.01-11.00.47:366][  0]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.01-11.00.47:366][  0]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.01-11.00.47:366][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.01-11.00.47:390][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.01-11.00.47:427][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.01-11.00.48:237][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 807.751ms to complete.
+[2019.03.01-11.00.48:237][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.673
+[2019.03.01-11.00.48:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.00.48:445][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.00.48:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.00.48:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.00.48:522][  0]LogCollectionManager: Loaded 0 collections in 0.008482 seconds
+[2019.03.01-11.00.48:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Collections/' took 0.01s
+[2019.03.01-11.00.48:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/Developers/w1605762/Collections/' took 0.01s
+[2019.03.01-11.00.48:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/Collections/' took 0.01s
+[2019.03.01-11.00.48:606][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.01-11.00.48:634][  0]LogContentBrowser: Native class hierarchy populated in 0.0257 seconds. Added 2572 classes and 603 folders.
+[2019.03.01-11.00.48:670][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.01-11.00.49:436][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.01-11.00.49:461][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.03.01-11.00.49:537][  0]LogSlate: Took 0.000444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.01-11.00.49:542][  0]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.01-11.00.49:564][  0]LogSlate: Took 0.008184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.01-11.00.49:776][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.01-11.00.49:995][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.01-11.00.49:996][  0]LogLoad: (Engine Initialization) Total time: 19.42 seconds
+[2019.03.01-11.00.49:996][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.01-11.00.50:007][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.01-11.00.50:044][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.01-11.00.52:253][236]LogSlate: Took 0.007669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.01-11.00.52:367][249]LogAssetRegistry: Asset discovery search completed in 11.6336 seconds
+[2019.03.01-11.00.52:369][249]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.01-11.00.52:369][249]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.03.01-11.03.27:694][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.03.31:688][300]LogEditorViewport: Clicking on Actor (LMB): TileFloorStraightWaypoint_C (TileFloorStraightWaypoint)
+[2019.03.01-11.03.34:408][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.03.37:343][907]LogEditorViewport: Clicking on Actor (LMB): TileFloorStraight2_C (TileFloorStraight2)
+[2019.03.01-11.03.37:700][944]LogSlate: Took 0.009636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.01-11.03.38:577][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.03.45:216][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPlateCross3)
+[2019.03.01-11.03.48:564][ 90]Cmd: TRANSACTION UNDO
+[2019.03.01-11.03.48:564][ 90]LogEditorTransaction: Undo Move Actors
+[2019.03.01-11.03.48:592][ 90]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.01-11.03.57:104][ 90]LogEditorViewport: Clicking on Actor (LMB): TileFloorStraight2_C (TileFloorStraight2)
+[2019.03.01-11.04.40:928][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.04.44:781][675]LogAssetEditorManager: Opening Asset editor for Material /Game/StefStuff/MaterialsAndTextures/WaypointMat.WaypointMat
+[2019.03.01-11.04.44:783][675]LogMaterial: Display: Missing cached shader map for material WaypointMat, compiling. 
+[2019.03.01-11.04.45:371][675]LogMaterial: Display: Missing cached shader map for material WaypointMat, compiling. 
+[2019.03.01-11.04.45:388][675]LogMaterial: Display: Missing cached shader map for material WaypointMat, compiling. 
+[2019.03.01-11.04.45:407][675]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.01-11.04.45:407][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.01-11.04.45:407][675]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.01-11.04.45:407][675]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.01-11.04.45:434][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.03.01-11.04.45:574][675]LogSlate: Took 0.010654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.01-11.04.46:899][746]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.01-11.04.46:969][751]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.01-11.04.46:994][753]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.01-11.04.46:994][753]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.01-11.04.47:147][766]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.01-11.04.47:193][770]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.01-11.04.47:202][771]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.01-11.04.47:219][773]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.01-11.04.47:363][787]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.01-11.04.47:543][801]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.01-11.04.47:728][812]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.01-11.04.47:765][815]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.01-11.04.47:818][819]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.01-11.04.48:064][838]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.01-11.04.48:077][839]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.01-11.04.48:280][854]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.01-11.04.48:356][859]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.01-11.04.48:379][861]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.01-11.04.48:521][872]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.01-11.04.48:768][891]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.03.01-11.04.48:768][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.03.01-11.04.48:768][891]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.01-11.04.48:768][891]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.01-11.05.09:531][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.05.12:743][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.05.28:338][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.05.28:545][443]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/BluePrints/Buttons/ButtonMat_Inst.ButtonMat_Inst
+[2019.03.01-11.05.49:414][641]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.01-11.05.50:568][778]LogSlate: Window 'ButtonMat_Inst*' being destroyed
+[2019.03.01-11.05.50:571][778]LogSlate: Window 'ButtonMat_Inst*' being destroyed
+[2019.03.01-11.05.50:783][778]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ButtonMat_Inst, compiling. 
+[2019.03.01-11.05.51:559][778]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.01-11.05.51:561][778]TextureStreamingBuild: Display: Compiling optional shaders took 0.790 seconds.
+[2019.03.01-11.06.03:319][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.06.21:343][ 41]LogEditorViewport: Clicking on Actor (LMB): TileFloorStraightWaypoint_C (TileFloorStraightWaypoint)
+[2019.03.01-11.06.27:738][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.06.33:999][433]Cmd: EDIT CUT
+[2019.03.01-11.06.34:007][433]LogEditorActor: Deleted Actor: TileFloorStraightWaypoint_C
+[2019.03.01-11.06.34:029][433]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.03.01-11.06.36:591][730]Cmd: TRANSACTION UNDO
+[2019.03.01-11.06.36:591][730]LogEditorTransaction: Undo Cut
+[2019.03.01-11.06.51:799][386]LogSlate: Window 'Content Browser 2' being destroyed
+[2019.03.01-11.07.06:494][ 73]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst9C52F93442BEAA6E452AF1ACDA49407F.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/MaterialsAndTextures/ButtonMat_Inst.uasset'
+[2019.03.01-11.07.06:565][ 73]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst13A01E9D4471C13DB723FC932292E6DF.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/ButtonMat_Inst.uasset'
+[2019.03.01-11.08.18:462][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.08.25:302][274]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StefStuff/MaterialsAndTextures/ButtonMat_Inst.ButtonMat_Inst
+[2019.03.01-11.09.25:955][629]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.01-11.09.28:153][890]LogSlate: Window 'ButtonMat_Inst*' being destroyed
+[2019.03.01-11.09.28:157][890]LogSlate: Window 'ButtonMat_Inst*' being destroyed
+[2019.03.01-11.09.28:194][890]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ButtonMat_Inst, compiling. 
+[2019.03.01-11.09.28:862][890]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.01-11.09.28:864][890]TextureStreamingBuild: Display: Compiling optional shaders took 0.673 seconds.
+[2019.03.01-11.09.49:323][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.09.49:490][323]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StefStuff/MaterialsAndTextures/ButtonMat_Inst.ButtonMat_Inst
+[2019.03.01-11.10.03:153][878]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ButtonMat_Inst, compiling. 
+[2019.03.01-11.10.03:865][878]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.01-11.10.03:866][878]TextureStreamingBuild: Display: Compiling optional shaders took 0.717 seconds.
+[2019.03.01-11.10.03:936][878]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst93AD3F45402C4CE779BED0BEA21E2265.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/MaterialsAndTextures/ButtonMat_Inst.uasset'
+[2019.03.01-11.10.05:528][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPlateCross3)
+[2019.03.01-11.10.07:988][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.10.13:137][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPlateCross3)
+[2019.03.01-11.10.14:597][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.10.14:734][993]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ButtonMat_Inst, compiling. 
+[2019.03.01-11.10.14:902][993]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.01-11.10.14:903][993]TextureStreamingBuild: Display: Compiling optional shaders took 0.173 seconds.
+[2019.03.01-11.10.14:968][993]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst549BC2934237CB4D3ABE38975C39A4B3.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/MaterialsAndTextures/ButtonMat_Inst.uasset'
+[2019.03.01-11.10.16:394][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPlateCross3)
+[2019.03.01-11.10.22:432][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.10.28:658][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPlateCross3)
+[2019.03.01-11.10.29:461][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.10.32:673][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-11.10.32:694][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.10.32:694][896]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.01-11.10.32:744][896]LogPlayLevel: [PlayLevel] Compiling Buttons before play...
+[2019.03.01-11.10.32:822][896]LogPlayLevel: [PlayLevel] Compiling FirstPersonExampleMap before play...
+[2019.03.01-11.10.32:933][896]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (2 blueprints)
+[2019.03.01-11.10.32:947][896]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2019 11:10:32)
+[2019.03.01-11.10.32:947][896]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.01-11.10.32:961][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013972s)
+[2019.03.01-11.10.32:962][896]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.01-11.10.32:962][896]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.03.01-11.10.32:962][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014791s)
+[2019.03.01-11.10.33:022][896]LogInit: XAudio2 using 'ExtronScalerD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-11.10.33:039][896]LogInit: FAudioDevice initialized.
+[2019.03.01-11.10.33:082][896]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.01-11.10.33:092][896]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.01-11.10.33
+[2019.03.01-11.10.33:093][896]LogWorld: Bringing up level for play took: 0.007950
+[2019.03.01-11.10.33:140][896]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2019.03.01-11.10.33:142][896]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.03.01-11.10.33:142][896]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.03.01-11.10.33:147][896]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.289
+[2019.03.01-11.10.33:147][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.10.39:327][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.10.39:327][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.10.39:361][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-11.10.39:361][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.10.39:390][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.10.39:434][614]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.01-11.11.13:689][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.11.20:982][424]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ButtonMat_Inst, compiling. 
+[2019.03.01-11.11.21:686][424]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.01-11.11.21:687][424]TextureStreamingBuild: Display: Compiling optional shaders took 0.709 seconds.
+[2019.03.01-11.11.21:765][424]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst3962058B4BF73868CB566A9A43B7D38B.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/MaterialsAndTextures/ButtonMat_Inst.uasset'
+[2019.03.01-11.11.24:321][713]LogSlate: Window 'ButtonMat_Inst' being destroyed
+[2019.03.01-11.11.24:324][713]LogSlate: Window 'ButtonMat_Inst' being destroyed
+[2019.03.01-11.11.30:658][421]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst13452A3C4D2B2DE022A57BBAA869F04A.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/ButtonMat_Inst.uasset'
+[2019.03.01-11.11.30:933][421]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Inst4135E12B489B3E1DDC2C129F9EB4F6BD.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/ButtonMat_Inst.uasset'
+[2019.03.01-11.11.43:395][846]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/WaypointGlowBE8BA13245117622B4D25BB7CF5C9229.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/MaterialsAndTextures/WaypointGlow.uasset'
+[2019.03.01-11.11.48:879][453]LogEditorViewport: Clicking on Actor (LMB): TileFloorStraightWaypoint_C (TileFloorStraightWaypoint)
+[2019.03.01-11.11.52:147][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.11.52:292][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StefStuff/Blueprints/TileFloorStraightWaypoint.TileFloorStraightWaypoint
+[2019.03.01-11.11.53:153][837]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2019.03.01-11.11.56:326][ 44]LogSlate: Window 'TileFloorStraightWaypoint' being destroyed
+[2019.03.01-11.11.56:438][ 44]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StefStuff/Blueprints/TileFloorStraightWaypoint.TileFloorStraightWaypoint
+[2019.03.01-11.12.02:439][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.12.06:179][836]LogMaterial: Warning: Material /Game/BluePrints/Buttons/ButtonMat.ButtonMat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.03.01-11.12.06:181][836]LogMaterial: Display: Missing cached shader map for material ButtonMat, compiling. 
+[2019.03.01-11.12.06:217][836]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.01-11.12.06:217][836]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.01-11.12.06:217][836]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.01-11.12.06:217][836]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.01-11.12.08:182][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.12.09:467][ 17]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.01-11.12.13:490][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.12.13:674][342]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/TileFloorStraightWaypoint3170A04846FE4C59BFC879B8BC6377C0.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/Blueprints/TileFloorStraightWaypoint.uasset'
+[2019.03.01-11.12.14:974][469]LogSlate: Window 'TileFloorStraightWaypoint' being destroyed
+[2019.03.01-11.12.14:976][469]LogSlate: Window 'TileFloorStraightWaypoint' being destroyed
+[2019.03.01-11.12.39:221][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.12.46:726][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.12.46:846][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StefStuff/Blueprints/TileFloorStraight2.TileFloorStraight2
+[2019.03.01-11.13.12:890][103]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonExampleMap_Auto1F85BA2A940279AF3F940CCAEDA5DA328.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.03.01-11.13.12:903][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.345
+[2019.03.01-11.13.12:903][103]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.345
+[2019.03.01-11.13.12:907][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Buttons/Buttons] ([1] browsable assets)...
+[2019.03.01-11.13.12:940][103]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Buttons/Buttons.Buttons]
+[2019.03.01-11.13.12:940][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Buttons/Buttons]
+[2019.03.01-11.13.13:041][103]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Buttons_Auto1C2EF2F804B7C519CCA5AF797237DC5F7.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/BluePrints/Buttons/Buttons_Auto1.uasset'
+[2019.03.01-11.13.13:056][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Buttons/ButtonMat] ([1] browsable assets)...
+[2019.03.01-11.13.13:099][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BluePrints/Buttons/ButtonMat.ButtonMat]
+[2019.03.01-11.13.13:099][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Buttons/ButtonMat]
+[2019.03.01-11.13.13:217][103]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMat_Auto132BBBED8415A3F2659F9B082AC2B31C1.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/BluePrints/Buttons/ButtonMat_Auto1.uasset'
+[2019.03.01-11.13.13:232][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StefStuff/MaterialsAndTextures/WaypointGlow] ([1] browsable assets)...
+[2019.03.01-11.13.13:232][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/StefStuff/MaterialsAndTextures/WaypointGlow]
+[2019.03.01-11.13.13:335][103]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/WaypointGlow_Auto17F8735EE46602D3FD1898382E1557DF0.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/StefStuff/MaterialsAndTextures/WaypointGlow_Auto1.uasset'
+[2019.03.01-11.13.13:345][103]LogFileHelpers: Auto-saving content packages took 0.441
+[2019.03.01-11.13.15:688][357]LogSlate: Window 'TileFloorStraight2' being destroyed
+[2019.03.01-11.13.15:793][357]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StefStuff/Blueprints/TileFloorStraight2.TileFloorStraight2
+[2019.03.01-11.13.48:527][590]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.03.01-11.13.50:763][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.13.55:136][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.14.02:595][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.14.02:793][741]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/TileFloorStraight2C541CFD341010F3D459AEA90CDC5C9C0.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/Blueprints/TileFloorStraight2.uasset'
+[2019.03.01-11.14.03:692][806]LogSlate: Window 'TileFloorStraight2' being destroyed
+[2019.03.01-11.14.03:696][806]LogSlate: Window 'TileFloorStraight2' being destroyed
+[2019.03.01-11.14.06:774][ 27]LogSlate: Window 'Save Content' being destroyed
+[2019.03.01-11.14.06:799][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Buttons/ButtonMat" FILE="../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/ButtonMat.uasset" SILENT=true
+[2019.03.01-11.14.06:846][ 27]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/ButtonMatA08307B14796C6DF7C4D23849A8AE2F6.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/ButtonMat.uasset'
+[2019.03.01-11.14.06:866][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Buttons/Buttons" FILE="../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/Buttons.uasset" SILENT=true
+[2019.03.01-11.14.06:936][ 27]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Buttons677EE02F482AA1681F8464B0A46F1957.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/Buttons.uasset'
+[2019.03.01-11.14.10:302][ 27]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonExampleMapFF66E1FF46231CB51F231FA2AF04DE13.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.03.01-11.14.10:405][ 27]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 3.432
+[2019.03.01-11.14.10:467][ 27]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/WaypointGlow255E6DAA49AC92C744039CBAF3D49AF3.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/StefStuff/MaterialsAndTextures/WaypointGlow.uasset'
+[2019.03.01-11.19.55:468][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.19.55:577][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-11.19.55:599][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.19.55:599][221]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.01-11.19.55:631][221]LogPlayLevel: [PlayLevel] Compiling Buttons before play...
+[2019.03.01-11.19.55:800][221]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (1 blueprints)
+[2019.03.01-11.19.55:800][221]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2019 11:19:55)
+[2019.03.01-11.19.55:801][221]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.01-11.19.55:807][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006523s)
+[2019.03.01-11.19.55:808][221]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.01-11.19.55:808][221]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.03.01-11.19.55:808][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.007298s)
+[2019.03.01-11.19.55:877][221]LogInit: XAudio2 using 'ExtronScalerD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-11.19.55:893][221]LogInit: FAudioDevice initialized.
+[2019.03.01-11.19.55:931][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.01-11.19.55:939][221]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.01-11.19.55
+[2019.03.01-11.19.55:940][221]LogWorld: Bringing up level for play took: 0.007391
+[2019.03.01-11.19.55:958][221]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.082
+[2019.03.01-11.19.55:959][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.20.30:639][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.20.30:639][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.20.30:675][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-11.20.30:676][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.20.30:725][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.20.30:749][357]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.01-11.20.37:962][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.20.46:204][164]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.03.01-11.20.56:744][168]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonGameModeCA1E6B0D4C4037A7E4983CA5730D93B5.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2019.03.01-11.20.57:210][212]BlueprintLog: New page: Compile FirstPersonGameMode
+[2019.03.01-11.21.14:243][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.21.39:577][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.21.39:966][137]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonExampleMapD331D4DB45CEEE26BBCFFB8FE78B5888.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.03.01-11.22.12:164][529]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.01-11.22.12:284][530]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.LIGHTTEST
+[2019.03.01-11.22.12:284][530]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.03.01-11.22.12:284][530]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2019.03.01-11.22.12:284][530]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.03.01-11.22.12:284][530]LogTemp: BranchPath = E-N5116-PC-ZZ/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = E-N5116-PC-ZZ/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.03.01-11.22.12:322][531]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\w1605762\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.01-11.24.38:289][951]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.01-11.24.38:292][951]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.01-11.24.42:729][430]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StefStuff/Blueprints/Checkpoint.Checkpoint
+[2019.03.01-11.30.41:451][933]LogSlate: Window 'Checkpoint' being destroyed
+[2019.03.01-11.30.41:454][933]LogSlate: Window 'Checkpoint' being destroyed
+[2019.03.01-11.30.41:531][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.01-11.30.50:555][948]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Buttons/Buttons.Buttons
+[2019.03.01-11.31.25:678][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.31.44:824][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.31.51:145][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.31.56:695][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.32.16:512][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.32.48:497][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.32.50:227][443]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.01-11.32.50:409][454]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.01-11.32.50:566][458]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.01-11.32.50:715][460]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.01-11.32.51:042][482]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.01-11.32.51:516][521]LogEditorTransaction: Undo Edit Static Mesh
+[2019.03.01-11.32.53:201][692]LogEditorTransaction: Undo Edit Static Mesh
+[2019.03.01-11.32.53:690][738]LogEditorTransaction: Undo Edit Static Mesh
+[2019.03.01-11.32.54:180][785]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.01-11.32.55:067][880]LogEditorTransaction: Undo Edit Static Mesh
+[2019.03.01-11.32.56:177][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.33.33:665][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.34.00:308][876]LogSlate: Took 0.008764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.01-11.34.47:404][453]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.03.01-11.34.48:960][488]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Player2.Player2
+[2019.03.01-11.35.39:728][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.35.47:013][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.01-11.36.05:966][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.37.33:266][ 24]BlueprintLog: New page: Compile Buttons
+[2019.03.01-11.37.35:429][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.03.01-11.37.36:146][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.37.36:236][151]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-11.37.36:281][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.37.36:282][151]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.01-11.37.36:345][151]LogPlayLevel: [PlayLevel] Compiling Player2 before play...
+[2019.03.01-11.37.36:864][151]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.03.01-11.37.37:284][151]LogPlayLevel: PlayLevel: Blueprint regeneration took 1002 ms (2 blueprints)
+[2019.03.01-11.37.37:284][151]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2019 11:37:37)
+[2019.03.01-11.37.37:284][151]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.01-11.37.37:292][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007351s)
+[2019.03.01-11.37.37:292][151]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.01-11.37.37:293][151]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2019.03.01-11.37.37:293][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008200s)
+[2019.03.01-11.37.37:365][151]LogInit: XAudio2 using 'ExtronScalerD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-11.37.37:383][151]LogInit: FAudioDevice initialized.
+[2019.03.01-11.37.37:420][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.01-11.37.37:429][151]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.01-11.37.37
+[2019.03.01-11.37.37:430][151]LogWorld: Bringing up level for play took: 0.008030
+[2019.03.01-11.37.37:449][151]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.557
+[2019.03.01-11.37.37:449][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.37.53:351][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.37.53:351][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.37.53:394][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-11.37.53:394][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.37.53:454][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.37.53:519][956]Cmd: SELECT NONE
+[2019.03.01-11.37.53:519][956]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.01-11.37.55:736][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.37.55:851][109]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-11.37.55:880][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.37.55:881][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-11.37.55:881][109]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2019 11:37:55)
+[2019.03.01-11.37.55:881][109]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.01-11.37.55:890][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009013s)
+[2019.03.01-11.37.55:891][109]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.01-11.37.55:891][109]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.03.01-11.37.55:891][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009804s)
+[2019.03.01-11.37.55:977][109]LogInit: XAudio2 using 'ExtronScalerD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-11.37.55:995][109]LogInit: FAudioDevice initialized.
+[2019.03.01-11.37.56:032][109]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.01-11.37.56:041][109]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.01-11.37.56
+[2019.03.01-11.37.56:042][109]LogWorld: Bringing up level for play took: 0.007966
+[2019.03.01-11.37.56:060][109]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.168
+[2019.03.01-11.37.56:061][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.38.14:672][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.38.14:672][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.38.14:708][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-11.38.14:709][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.38.14:739][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.38.14:787][168]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.01-11.38.19:755][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.38.23:898][  7]BlueprintLog: New page: Compile Buttons
+[2019.03.01-11.39.02:314][564]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonExampleMap_Auto2A86D048E4E125239958AF3839118BCFA.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.03.01-11.39.02:337][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.595
+[2019.03.01-11.39.02:338][564]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.595
+[2019.03.01-11.39.02:346][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Buttons/Buttons] ([1] browsable assets)...
+[2019.03.01-11.39.02:385][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Buttons/Buttons.Buttons]
+[2019.03.01-11.39.02:385][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Buttons/Buttons]
+[2019.03.01-11.39.02:597][564]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Buttons_Auto221DA586D49143725B60A0A845A81393F.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/BluePrints/Buttons/Buttons_Auto2.uasset'
+[2019.03.01-11.39.02:614][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.03.01-11.39.02:655][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.03.01-11.39.02:655][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.03.01-11.39.03:009][564]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonCharacter_Auto23621E18D4A86FC11A18C11B767B4653D.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.03.01-11.39.03:018][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Player2] ([1] browsable assets)...
+[2019.03.01-11.39.03:046][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Player2.Player2]
+[2019.03.01-11.39.03:046][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Player2]
+[2019.03.01-11.39.03:264][564]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Player2_Auto254807F304327BB19B22A6494A33AE4C5.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Player2_Auto2.uasset'
+[2019.03.01-11.39.03:272][564]LogFileHelpers: Auto-saving content packages took 0.933
+[2019.03.01-11.39.06:251][860]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.01-11.39.06:285][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.39.06:285][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.01-11.39.06:286][860]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2019 11:39:06)
+[2019.03.01-11.39.06:286][860]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.01-11.39.06:293][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006680s)
+[2019.03.01-11.39.06:293][860]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.01-11.39.06:294][860]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2019.03.01-11.39.06:294][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.007474s)
+[2019.03.01-11.39.06:365][860]LogInit: XAudio2 using 'ExtronScalerD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.01-11.39.06:382][860]LogInit: FAudioDevice initialized.
+[2019.03.01-11.39.06:411][860]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.01-11.39.06:419][860]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.01-11.39.06
+[2019.03.01-11.39.06:420][860]LogWorld: Bringing up level for play took: 0.007427
+[2019.03.01-11.39.06:438][860]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.547
+[2019.03.01-11.39.06:439][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.40.01:977][465]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.01:985][466]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.01:993][467]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:002][468]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:010][469]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:018][470]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:027][471]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:035][472]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:044][473]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:052][474]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:060][475]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:068][476]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:077][477]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:085][478]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:094][479]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:102][480]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:110][481]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:119][482]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:127][483]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:135][484]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:144][485]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:152][486]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:160][487]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:169][488]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:177][489]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:186][490]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:194][491]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:203][492]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:211][493]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:219][494]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:228][495]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:237][496]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:245][497]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:253][498]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:261][499]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:270][500]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:279][501]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:287][502]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:296][503]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:304][504]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:312][505]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:320][506]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:329][507]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:337][508]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:345][509]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:354][510]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:363][511]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:371][512]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:382][513]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:391][514]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:398][515]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:407][516]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:417][517]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:425][518]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:433][519]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:441][520]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:451][521]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:459][522]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:467][523]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:476][524]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:485][525]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:493][526]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:502][527]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:510][528]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:518][529]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:527][530]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:535][531]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:543][532]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:552][533]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:561][534]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:571][535]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:579][536]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:587][537]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:596][538]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:604][539]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:612][540]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:621][541]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:629][542]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:637][543]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:646][544]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:654][545]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:662][546]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:671][547]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:679][548]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:687][549]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:696][550]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:704][551]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:713][552]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:723][553]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:733][554]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:742][555]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:750][556]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:758][557]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:767][558]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:775][559]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:783][560]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:792][561]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:800][562]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:808][563]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:817][564]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:825][565]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:834][566]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:842][567]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:850][568]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:860][569]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:868][570]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:877][571]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:885][572]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:893][573]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:902][574]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:910][575]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:918][576]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:927][577]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:935][578]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:943][579]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:952][580]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:960][581]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:968][582]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:977][583]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:985][584]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.02:995][585]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:003][586]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:011][587]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:020][588]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:028][589]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:036][590]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:045][591]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:054][592]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:064][593]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:074][594]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:082][595]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:091][596]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:099][597]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:107][598]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:116][599]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:124][600]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:132][601]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:141][602]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:149][603]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:157][604]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:166][605]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:174][606]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:182][607]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:191][608]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:201][609]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:211][610]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:219][611]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:229][612]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:237][613]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:245][614]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:254][615]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:263][616]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:271][617]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:281][618]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:289][619]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:297][620]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:306][621]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:317][622]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:326][623]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:335][624]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:343][625]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:352][626]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:360][627]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:369][628]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:377][629]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:385][630]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:393][631]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:402][632]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:410][633]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:418][634]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:427][635]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:435][636]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:444][637]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:452][638]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:460][639]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:468][640]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:477][641]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:485][642]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:493][643]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:502][644]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:510][645]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:518][646]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:527][647]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:535][648]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:543][649]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:552][650]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:560][651]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:569][652]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:580][653]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:590][654]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:598][655]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:606][656]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:615][657]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:623][658]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:633][659]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:641][660]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:649][661]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:658][662]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:670][663]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:679][664]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:688][665]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:698][666]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:709][667]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:717][668]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:725][669]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:734][670]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:742][671]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:750][672]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:759][673]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:767][674]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:775][675]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:784][676]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:793][677]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:801][678]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:809][679]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:818][680]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:826][681]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:834][682]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:843][683]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:851][684]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:859][685]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:868][686]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:876][687]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:884][688]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:893][689]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:902][690]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:910][691]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:919][692]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:927][693]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:935][694]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:944][695]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:952][696]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:960][697]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:970][698]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:978][699]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:986][700]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.03:995][701]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:003][702]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:011][703]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:020][704]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:028][705]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:036][706]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:045][707]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:053][708]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:061][709]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:070][710]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:078][711]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:086][712]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:095][713]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:103][714]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:111][715]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:120][716]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:128][717]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:136][718]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:145][719]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:153][720]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:162][721]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:170][722]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:178][723]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:188][724]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:196][725]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:204][726]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:213][727]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:221][728]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:230][729]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:238][730]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:246][731]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:254][732]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:263][733]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:271][734]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:280][735]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:288][736]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:296][737]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:305][738]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:313][739]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:321][740]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:330][741]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:340][742]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:348][743]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:357][744]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:364][745]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:373][746]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:381][747]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:389][748]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:398][749]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:408][750]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:418][751]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:427][752]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:435][753]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:444][754]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:452][755]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:460][756]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:469][757]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:477][758]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:485][759]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:494][760]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:502][761]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:510][762]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:520][763]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:530][764]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:538][765]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:546][766]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:556][767]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:565][768]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:573][769]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:584][770]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:592][771]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:601][772]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:609][773]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:618][774]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:626][775]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:634][776]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:643][777]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:651][778]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:659][779]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:668][780]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:676][781]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:684][782]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:693][783]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:701][784]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:709][785]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:719][786]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:727][787]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:736][788]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:744][789]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:752][790]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:762][791]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:770][792]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:778][793]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:786][794]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:795][795]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:803][796]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:811][797]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:820][798]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:828][799]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:837][800]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:847][801]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:857][802]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:865][803]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:873][804]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:881][805]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:890][806]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:898][807]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:906][808]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:915][809]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:923][810]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:931][811]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:940][812]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:948][813]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:956][814]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:964][815]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:972][816]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:980][817]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:989][818]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.04:997][819]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:005][820]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:014][821]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:022][822]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:031][823]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:039][824]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:047][825]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:055][826]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:064][827]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:072][828]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:082][829]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:090][830]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:098][831]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:107][832]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:116][833]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:124][834]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:132][835]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:141][836]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:149][837]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:157][838]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:165][839]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:174][840]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:182][841]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:191][842]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:199][843]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:207][844]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:215][845]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:224][846]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:232][847]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:240][848]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:249][849]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:258][850]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:267][851]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:275][852]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:283][853]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:291][854]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:300][855]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:308][856]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:317][857]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:325][858]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:334][859]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:342][860]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:351][861]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:359][862]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:367][863]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:376][864]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:384][865]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:392][866]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:401][867]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:409][868]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:417][869]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:426][870]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:434][871]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:443][872]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:451][873]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:459][874]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:467][875]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:476][876]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:485][877]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:493][878]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:502][879]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:510][880]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:518][881]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:527][882]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:535][883]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:543][884]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:551][885]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.05:560][886]LogBlueprintUserMessages: [LightReset_2] reset buttons
+[2019.03.01-11.40.20:484][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.40.20:485][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.40.20:526][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.01-11.40.20:526][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.01-11.40.20:578][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.01-11.40.20:601][656]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.03.01-11.40.26:158][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.01-11.40.26:617][287]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonExampleMapA363887440210285A628328FDAD33EE5.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.03.01-11.40.28:658][331]LogSlate: Window 'Save Content' being destroyed
+[2019.03.01-11.40.28:682][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Buttons/Buttons" FILE="../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/Buttons.uasset" SILENT=true
+[2019.03.01-11.40.28:754][331]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Buttons21CC8E20424C96111B4E7FB7C5B84AE8.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/BluePrints/Buttons/Buttons.uasset'
+[2019.03.01-11.40.29:012][331]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/FirstPersonCharacterBA4EB26B403F2E267D9F80ADA872144A.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.03.01-11.40.29:306][331]LogSavePackage: Moving '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Saved/Player2414D52AC466D61F9FEB623BFDCAAC821.tmp' to '../../../../../../Users/w1605762/Documents/GitHub/WMINGameJam2019/LIGHTTEST/Content/FirstPersonBP/Blueprints/Player2.uasset'
+[2019.03.01-11.40.31:515][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.01-11.40.31:585][548]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.03.01-11.40.31:591][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.01-11.40.31:667][548]LogSlate: Window 'LIGHTTEST - Unreal Editor' being destroyed
+[2019.03.01-11.40.31:667][548]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.01-11.40.31:971][549]Cmd: QUIT_EDITOR
+[2019.03.01-11.40.32:526][549]LogExit: Preparing to exit.
+[2019.03.01-11.40.33:006][549]LogExit: Editor shut down
+[2019.03.01-11.40.33:007][549]LogExit: Transaction tracking system shut down
+[2019.03.01-11.40.33:690][549]LogExit: Object subsystem successfully closed.
+[2019.03.01-11.40.33:724][549]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.01-11.40.33:732][549]LogD3D11RHI: Shutdown
+[2019.03.01-11.40.33:732][549]LogD3D11RHI: CleanupD3DDevice
+[2019.03.01-11.40.33:737][549]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.01-11.40.33:829][549]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (618)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.03.01-11.40.33:830][549]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.03.01-11.40.33:831][549]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.03.01-11.40.33:832][549]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.03.01-11.40.34:565][549]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.03.01-11.40.34:566][549]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.03.01-11.40.34:633][549]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.03.01-11.40.34:644][549]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.03.01-11.40.34:645][549]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.03.01-11.40.34:646][549]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.01-11.40.34:668][549]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.03.01-11.40.34:669][549]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.03.01-11.40.34:673][549]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.01-11.40.34:674][549]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.01-11.40.34:675][549]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.01-11.40.34:776][549]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.01-11.40.34:877][549]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.01-11.40.34:878][549]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.01-11.40.34:878][549]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.01-11.40.34:878][549]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.01-11.40.34:878][549]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.01-11.40.34:878][549]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.01-11.40.34:879][549]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.01-11.40.34:879][549]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.01-11.40.34:879][549]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.01-11.40.34:879][549]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.01-11.40.34:879][549]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.01-11.40.34:879][549]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.03.01-11.40.34:881][549]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.03.01-11.40.34:887][549]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.03.01-11.40.34:888][549]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.03.01-11.40.34:888][549]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.03.01-11.40.34:888][549]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.03.01-11.40.34:888][549]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.03.01-11.40.34:889][549]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.03.01-11.40.34:890][549]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.03.01-11.40.34:890][549]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.03.01-11.40.34:890][549]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.03.01-11.40.34:890][549]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.03.01-11.40.34:890][549]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.03.01-11.40.34:941][549]LogDerivedDataCache: Shutdown
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.03.01-11.40.34:941][549]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.03.01-11.40.34:942][549]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.03.01-11.40.34:942][549]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.03.01-11.40.34:944][549]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.03.01-11.40.34:944][549]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.03.01-11.40.34:953][549]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.03.01-11.40.34:955][549]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.03.01-11.40.34:955][549]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.03.01-11.40.34:972][549]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.03.01-11.40.34:972][549]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.01-11.40.34:972][549]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B705EACB4-4180-01D3-278C-C2B499688DAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=3b05ac29464a4d6cee9924bdead76ad5%7C%7Ca6856535-60c8-43ec-b5ab-4c2c5c47c371&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.01-11.40.34:984][549]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.03.01-11.40.34:985][549]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.03.01-11.40.34:986][549]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.01-11.40.34:986][549]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.01-11.40.34:986][549]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.01-11.40.34:987][549]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.01-11.40.34:987][549]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.01-11.40.34:987][549]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.01-11.40.34:988][549]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.01-11.40.34:997][549]LogExit: Exiting.
+[2019.03.01-11.40.35:035][549]Log file closed, 03/01/19 11:40:35
